@@ -2,7 +2,7 @@
 
 This is a simple and functional full-stack ToDo application built with **ReactJS + TypeScript** on the frontend and **C# + .NET** on the backend.
 
-![Demo](../todo-app/client/src/assets/demo/TodoDemo.gif)
+![Demo](./client/src/assets/demo/TodoDemo.gif)
 
 ---
 
@@ -62,7 +62,7 @@ npx vitest run
 npx cypress run
 ```
 
-![Photo](../todo-app/client/src/assets/demo/e2ePass.png)
+![Photo](./client/src/assets/demo/e2ePass.png)
 
 ## **Linting**
 
